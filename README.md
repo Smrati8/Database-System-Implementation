@@ -1,5 +1,5 @@
-## Database System Implementation
-It is an assignment of course Database System Implementation (COP6726) taught in University of Florida.
+# Database System Implementation
+It is an project implementation of course Database System Implementation (COP6726) taught in University of Florida.
 
 ## About the Project
 * Designed a single-user database management system that supports a subset of SQL. 
