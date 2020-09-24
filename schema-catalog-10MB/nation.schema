@@ -1,0 +1,8 @@
+BEGIN
+nation
+nation.tbl
+n_nationkey Int
+n_name String
+n_regionkey Int
+n_comment String
+END

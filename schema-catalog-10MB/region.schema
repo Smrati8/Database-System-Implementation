@@ -1,0 +1,7 @@
+BEGIN
+region
+region.tbl
+r_regionkey Int
+r_name String
+r_comment String
+END

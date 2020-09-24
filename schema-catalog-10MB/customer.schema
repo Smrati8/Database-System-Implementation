@@ -1,0 +1,12 @@
+BEGIN
+customer
+customer.tbl
+c_custkey Int
+c_name String
+c_address String
+c_nationkey Int
+c_phone String
+c_acctbal Double
+c_mktsegment String
+c_comment String
+END

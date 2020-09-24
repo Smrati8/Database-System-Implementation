@@ -1,0 +1,9 @@
+BEGIN
+partsupp
+partsupp.tbl
+ps_partkey Int
+ps_suppkey Int
+ps_availqty Int
+ps_supplycost Double
+ps_comment String
+END

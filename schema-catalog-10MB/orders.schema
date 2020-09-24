@@ -1,0 +1,13 @@
+BEGIN
+orders
+orders.tbl
+o_orderkey Int
+o_custkey Int
+o_orderstatus String
+o_totalprice Double
+o_orderdate String
+o_orderpriority String
+o_clerk String
+o_shippriority Int
+o_comment String
+END

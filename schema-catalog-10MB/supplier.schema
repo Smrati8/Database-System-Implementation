@@ -1,0 +1,11 @@
+BEGIN
+supplier
+supplier.tbl
+s_suppkey Int
+s_name String
+s_address String
+s_nationkey Int
+s_phone String
+s_acctbal Double
+s_comment String
+END
