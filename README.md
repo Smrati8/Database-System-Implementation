@@ -23,9 +23,9 @@ It is an project implementation of course Database System Implementation (COP672
 | Milestone | Requirement and Implementation Details | Final Report and Sample Outputs | 
 | --------- | -------------------------------------- | ------------------------------- |
 | Heap File Implementation  | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A1.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%201.pdf) | 
-| BigQ Implementation  | [Click here] () | [Click here] () |
-| Sorted File Implementation | [Click here] () | [Click here] () |
-| Relational Operations | [Click here] () | [Click here] () |
-| Statistical Estimation | [Click here] () | [Click here] () |
-| Query Compilation and Optimization | [Click here] () | [Click here] () |
-| Putting it All Together | [Click here] () | [Click here] () |
+| BigQ Implementation  | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A2.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%202.pdf) |
+| Sorted File Implementation | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A2.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%202-2.pdf) |
+| Relational Operations | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A3.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%203.pdf) |
+| Statistical Estimation | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A4-1.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%204%2C%20part%201.pdf) |
+| Query Compilation and Optimization | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A4-2.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%204%2C%20part%202.pdf) |
+| Putting it All Together | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/A5.pdf) | [Click here](https://github.com/Smrati8/database-implementation/blob/master/documentation/Report%20Assignment%205.pdf) |
